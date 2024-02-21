@@ -16,9 +16,5 @@
     "espressif32",
     "native"
   ],
-  "headers": "M5UnitWeightI2C.h",
-  "dependencies": {
-      "M5Unified": "*",
-      "M5GFX": "*"
-  }  
+  "headers": "M5UnitWeightI2C.h"
 }
